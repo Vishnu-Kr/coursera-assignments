@@ -6,12 +6,12 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: rgba(68, 67, 67, 0.8);
 }
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color: rgb(8, 8, 8);
   padding-left: 25px;
 }
 
